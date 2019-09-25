@@ -15,8 +15,8 @@
     <FileVersion>2.7.1.828</FileVersion>
     <InformationalVersion>2.7.1.828</InformationalVersion>
     <PackageVersion>2.7.1.828</PackageVersion>
-    <PackageId>Square.Picasso</PackageId>
-    <Product>Square.Picasso</Product>
+    <PackageId>Rightek.Square.Picasso</PackageId>
+    <Product>Rightek.Square.Picasso</Product>
     <Title>Square.Picasso binding for Xamarin.Android</Title>
     <Summary>A powerful image downloading and caching library for Android</Summary>
     <Description>A powerful image downloading and caching library for Android</Description>
@@ -27,7 +27,7 @@
     <PackageProjectUrl>https://github.com/rightek/square.picasso</PackageProjectUrl>
     <RepositoryUrl>https://github.com/rightek/square.picasso</RepositoryUrl>
     <PackageIconUrl></PackageIconUrl>
-    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>picasso square square.picasso xamarin android monodroid</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
@@ -41,7 +41,6 @@
     <LibraryProjectZip Include="Jar\picasso.aar" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Square.OkHttp3" Version="3.12.3" />
-    <PackageReference Include="Square.Okio" Version="1.17.4" />
+    <PackageReference Include="Rightek.Square.OkHttp3" Version="3.12.3" />
   </ItemGroup>
 </Project>
