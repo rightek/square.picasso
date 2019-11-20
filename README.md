@@ -18,5 +18,6 @@ This project is based on [this repo](https://github.com/mattleibow/square-bindin
 
 ## License
 MIT
+
 ---
 Made with ♥ by people @ [Rightek](http://rightek.ir)
