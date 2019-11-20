@@ -8,9 +8,9 @@ This project is based on [this repo](https://github.com/mattleibow/square-bindin
 
 | Package Name             | NuGet                                                                       | Downloads                                                                    |
 |--------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Rightek.Square.Picasso | ![](https://img.shields.io/nuget/v/Rightek.Square.Picasso?color=%23268bd2&style=flat-square) | ![](https://img.shields.io/nuget/dt/Rightek.Square.Picasso?color=%2382b414&style=flat-square) |
-| Rightek.Square.OkHttp3 | ![](https://img.shields.io/nuget/v/Rightek.Square.OkHttp3?color=%23268bd2&style=flat-square) | ![](https://img.shields.io/nuget/dt/Rightek.Square.OkHttp3?color=%2382b414&style=flat-square) |
-| Rightek.Square.Okio    | ![](https://img.shields.io/nuget/v/Rightek.Square.Okio?color=%23268bd2&style=flat-square) | ![](https://img.shields.io/nuget/dt/Rightek.Square.Okio?color=%2382b414&style=flat-square) |
+| Rightek.Square.Picasso | [![nuget](https://img.shields.io/nuget/v/Rightek.Square.Picasso.svg?color=%23268bd2&style=flat-square)](https://www.nuget.org/packages/Rightek.Square.Picasso) | [![stats](https://img.shields.io/nuget/dt/Rightek.Square.Picasso.svg?color=%2382b414&style=flat-square)](https://www.nuget.org/stats/packages/Rightek.Square.Picasso?groupby=Version) |
+| Rightek.Square.OkHttp3 | [![nuget](https://img.shields.io/nuget/v/Rightek.Square.OkHttp3.svg?color=%23268bd2&style=flat-square)](https://www.nuget.org/packages/Rightek.Square.OkHttp3) | [![stats](https://img.shields.io/nuget/dt/Rightek.Square.OkHttp3.svg?color=%2382b414&style=flat-square)](https://www.nuget.org/stats/packages/Rightek.Square.OkHttp3?groupby=Version) |
+| Rightek.Square.Okio | [![nuget](https://img.shields.io/nuget/v/Rightek.Square.Okio.svg?color=%23268bd2&style=flat-square)](https://www.nuget.org/packages/Rightek.Square.Okio) | [![stats](https://img.shields.io/nuget/dt/Rightek.Square.Okio.svg?color=%2382b414&style=flat-square)](https://www.nuget.org/stats/packages/Rightek.Square.Okio?groupby=Version) |
 
 ## Dependencies
 - [Xamarin binding for Okio](https://github.com/rightek/square.okio)
