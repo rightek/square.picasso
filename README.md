@@ -1,4 +1,4 @@
-# Picasso
+# Rightek.Square.Picasso
  Xamarin Android binding for [Square Picasso](https://github.com/square/picasso) (A powerful image downloading and caching library for Android)
  
 This project is based on [this repo](https://github.com/mattleibow/square-bindings), we use `Picasso` in our projects, so we'll keep this repo up to date with [original (_java_) repo](https://github.com/square/picasso). _current version `2.71828`_
